@@ -1,0 +1,57 @@
+Notes on ChatGPT from ChatGPT
+
+what do I communicate to Chat-GPT to make it provide the most factually accurate answers and keep its temperature at 0.1
+
+To make Chat-GPT provide the most factually accurate answers and keep its temperature at 0.1, you can ask questions that require a specific, factual response, and avoid open-ended or ambiguous prompts that might lead to more creative, but potentially less accurate, answers. Additionally, you can specify in your questions that you are looking for a precise and factual response. For example, you could start your question with "What is the exact definition of..." or "Can you provide a factual explanation of...". Finally, you can mention in your questions that you prefer responses with a lower temperature setting, which will encourage the model to prioritize factual accuracy over creativity.
+
+construct a 100 word paragraph to tell Chat-GPT that all subsequent answers should emphasize exact factual accuracy, provide a rating of confidence in information at the end, and always maintain a temperature setting of 0.1
+
+- - - - - - - - - - — - - - - - - - - - - - - - - — - - - - - - - - - - - - - - — - - - - 
+@Chat-GPT: Please note that all subsequent answers should prioritize exact factual accuracy above all else. I require a high level of confidence in the information you provide, so please include a confidence rating at the end of each response. Additionally, I would like to request that you always maintain a temperature setting of 0.1 to ensure that the responses are as factually accurate and precise as possible. Thank you in advance for your assistance, and I look forward to receiving accurate and informative responses. 
+
+Start by sending it the bottom paragraph
+- - - - - - - - - - — - - - - - - - - - - - - - - — - - - - - - - - - - - - - - — - - - - 
+
+Q:Describe the current limitations of ChatGPT using GPT-3.5
+
+A:As an AI language model, ChatGPT is highly advanced and can perform many language-related tasks with a high degree of accuracy. However, there are still some limitations to its capabilities, even with the GPT-3.5 architecture. Here are some of the current limitations of ChatGPT:
+
+-Limited Understanding of Context: Although ChatGPT can generate highly coherent responses, it sometimes fails to comprehend the context and cannot always respond appropriately. It may sometimes generate irrelevant or unrelated responses, especially in complex conversations where context is critical.
+
+-Bias: Like any other AI language model, ChatGPT may exhibit bias in its responses based on the data it has been trained on. It may produce responses that are not inclusive or culturally sensitive, which could be problematic in some contexts.
+
+-Lack of Common Sense: ChatGPT is highly advanced, but it still lacks the kind of common sense that human beings possess. It may struggle to understand certain concepts or relationships between words, leading to nonsensical responses or incorrect information.
+
+-Limited Multimodal Capabilities: While ChatGPT excels in generating textual responses, it is not as proficient in processing other types of data, such as images, audio, or video. This limits its ability to engage in tasks that require a combination of modalities, such as image captioning or video summarization.
+
+-Limited Domain Expertise: ChatGPT has been trained on a vast amount of data, but it still lacks specialized knowledge in certain domains. This means that it may not be able to provide accurate or detailed responses in areas such as medicine, law, or engineering, where specific terminology and expertise are required.
+
+Overall, ChatGPT is an impressive AI language model, but it still has its limitations. As AI technology continues to evolve, these limitations may be overcome in the future, allowing ChatGPT to become an even more advanced and capable tool for natural language processing.
+——————————————————————————————————————————————————————————————————————————————————————————
+Possible Citation Training - Requires Refinement (seems to impede processing time)
+
+@Chat-GPT set a high standard for the level of evidence required to support a claim, and always provide a source for any factual information provided in responses
+
+——————————————————————————————————————————————————————————————————————————————————————————
+Notes on GPT-4 from GPT-4
+
+Q:How do I maximize accuracy of responses in GPT-4?
+
+A:To maximize the accuracy of responses in GPT-4, you should focus on optimizing various aspects of your interaction with the model. Here are some key steps you can take:
+
+1. Choose the right model: Ensure you're using the most appropriate GPT-4 model size and API version for your specific use case. Larger models generally produce more accurate results, but may have higher latency and cost.
+
+2. Provide clear context: Make your prompt as clear, concise, and specific as possible. This will help GPT-4 understand the context better and produce more accurate responses. Consider using explicit instructions or asking the model to think step-by-step or debate pros and cons before giving an answer.
+
+3. Limit response length: Set the response length using 'max tokens' parameter to control the verbosity of the model. Shorter responses can be more focused and accurate, but may not provide enough information in some cases.
+
+4. Adjust temperature: Control the randomness of the output by adjusting the 'temperature' parameter. Lower values (e.g., 0.2 to 0.5) make the model more focused and deterministic, while higher values (e.g., 0.8 to 1.0) increase randomness and creativity.
+
+5. Use step-by-step prompting: Break down your question into smaller, simpler sub-questions, and ask GPT-4 to answer each part step by step. This can help maintain accuracy and guide the model through a more structured thought process.
+
+6. Iterate and refine: If the initial response isn't accurate, you can iterate on your prompt by rephrasing the question or providing additional context. You can also ask the model to reconsider or re-evaluate its previous response.
+
+7. Filter and rank outputs: If you have access to the API, you can request multiple completions and implement a custom algorithm to rank or filter the responses based on relevance, coherence, and accuracy.
+
+Remember that GPT-4 is a powerful tool, but it has its limitations. The model is trained on a diverse range of texts, and its knowledge is only as accurate and up-to-date as the data it was trained on. Always verify critical information from reliable sources before relying on the model's output.
+——————————————————————————————————————————————————————————————————————————————————————————

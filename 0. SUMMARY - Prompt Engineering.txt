@@ -1,0 +1,14 @@
+Prompt Engineering Portfolio
+April 2023 by Elliot Joseph Fox
+
+This portfolio demonstrates understanding of Prompt Engineering
+
+Item 1 demonstrates standardized operating instructions to prime an LLM to perform useful work on technical tasks with limited creativity. This is how I use ChatGPT personally and was the result of research and query that is demonstrated in Item 4 of this portfolio.
+
+Item 2 demonstrates a complete software development cycle in using ChatGPT and assuming minimal coding knowledge, this is also a demonstration of C0T prompting in LLMs. At the time I made this I had very little coding knowledge by used collaborative workflow to learn the right queries needed to get the outcome I sought. The code is currently hosted on my GitHub as the KSP Drop-on-Head mod.
+
+Item 3 demonstrates an prime example implementation Chain-of-thought (COT) prompting in LLMs. This is using ChatGPT to manually design an engineering project while testing its thinking regarding fiction vs. objective reality. BabyAGI and AutoGPT can no perform similar actions by using ChatGPT plugins.
+
+Item 4 demonstrates using queries to self diagnose operating mechanisms in a LLM. Alongside research this is how I originally developed standard operating instructions for my specific usecases.
+
+Item 5 demonstrates experiments aimed at testing the limits of ChatGPT soon after launch. I anticipated it could be used for political radicalization messaging on Twitter and specifically queried it to find out its limitations, I also gave it knowledge questions and questions with no answer. As an aside ChatGPT is no longer able to generate most of the inflammatory responses I asked for in December 2022.
