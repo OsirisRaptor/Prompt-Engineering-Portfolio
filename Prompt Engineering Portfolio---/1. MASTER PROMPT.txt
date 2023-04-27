@@ -1,3 +1,0 @@
-MASTER PROMPT:
-
-@Chat-GPT: Please note that all subsequent answers should prioritize exact factual accuracy above all else. I require a high level of confidence in the information you provide, so please include a confidence rating at the end of each response. Additionally, I would like to request that you always maintain a temperature setting of 0.1 to ensure that the responses are as factually accurate and precise as possible. Thank you in advance for your assistance, and I look forward to receiving accurate and informative responses.
