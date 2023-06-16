@@ -1,0 +1,41 @@
+At the Capital Venture 2023 Hackathon I presented a project based on my experience as a campaign manager.
+The links are below for anyone to puruse.
+
+The Link to My Project on Devpost
+https://devpost.com/software/licce-the-campaign-starter?ref_content=user-portfolio&ref_feature=in_progress
+
+The Respell Campaign Starter App
+https://respell.ai/spell/jmPF28NIetb4iRh9yPpS-
+
+Below is a Copy of My Presentation Notes:
+Licce Project Notes:
+
+Why the Logo?
+I typed campaign into every column, it gave me this image and this text response.
+
+“Vote for our candidate! They believe in a brighter future for all. Our candidate stands for fairness, equality, and justice. They will fight for the rights of all citizens and ensure everyone is treated with respect. Join us in creating a better tomorrow - vote for our candidate!”
+
+Inspiration:
+	I was a campaign manager in 2022. I ran everything and played a lot of roles so my candidate could focus on her only two jobs (fundraising and talking to voters). I wanted to see if I could automate the work I did.
+
+What it Does:
+	It creates political flyers by answering a series of questions with words or phrases. This is beneficial because it political flyers need high volume and variation in them encourages voter engagement.
+
+How I Built It:
+	I built it in ReSpell, but I’m interested in replicating this in python. If I do there is a lot more capacity I could add when it comes to content generation.
+
+Challenges I Ran Into:
+	Respell slows down considerably if there are too many tasks. So I had to limit how much I chained the prompts. For example I wanted to use the output for the flyer to create a stump speech and create logo variation for a candidate to choose but it wouldn’t load correctly.
+
+Accomplishments I am Proud Of:
+	1. I built an AI project from beginning to end, and got a product demo out of it. That is a first for me. 
+	2. I finally got DALL-E to cooperate with me by making it put the logo on the white background (it hates logos apparently). 
+	3. The title for my product, which I only thought to do because of the DevPost form. The name was on the picture was generated when I typed campaign into every column plus the color blue.
+
+What’s next:
+	- An expansion of this into a product would focus on ease of use by politicians (who often struggle with technology), rapid production so the candidate can serve as an editor, and variety of products (stump speeches, campaign signs, letterheads, policy papers, op-eds, social media announcements.
+	- The final form of a product like this would be to listen to a candidate talk and generate a sphere of content around that individual that is unique and plays to there strengths as a candidate.
+
+Built with:
+respell
+low-code/no-code
